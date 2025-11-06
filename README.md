@@ -1,5 +1,16 @@
 # 🛍️ Mock E-Commerce Cart App
 
+## 🎥 Demo Video
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=lA4C-6wQwWA" target="_blank">
+    <img src="https://img.youtube.com/vi/lA4C-6wQwWA/maxresdefault.jpg" alt="Demo Video" width="600">
+  </a>
+</p>
+
+Click the image above to watch the full walkthrough on YouTube! 🎬
+
+
 A full-stack demo e-commerce application built using:
 - **Backend:** Node.js, Express, Sequelize, SQLite
 - **Frontend:** React (Create React App)
